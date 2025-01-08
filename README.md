@@ -32,7 +32,7 @@ Push your changes (if necessary): If you want to push the updated working branch
 
 git push origin your-working-branch
 
-## How to add a new branch (From ingrid-working)
+## How to add a new branch
 
 To create a new working branch in Git, follow these steps:
 
