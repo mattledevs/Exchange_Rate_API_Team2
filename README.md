@@ -32,7 +32,7 @@ Push your changes (if necessary): If you want to push the updated working branch
 
 git push origin your-working-branch
 
-## How to add a new branch (From ingrid-working)
+## How to add a new branch
 
 To create a new working branch in Git, follow these steps:
 
@@ -60,5 +60,4 @@ Replace new-branch-name with the desired name for your new branch.
 
 Verify that you are on the new branch: You can verify that you have successfully switched to the new branch by running:
 
-git branch
-This will list all branches, and the current branch will have an asterisk (*) next to it.
+git branch will show you what branch you are on
