@@ -31,3 +31,34 @@ git commit -m "Merged main into your-working-branch"
 Push your changes (if necessary): If you want to push the updated working branch back to the remote repository, you can do so with:
 
 git push origin your-working-branch
+
+## How to add a new branch (From ingrid-working)
+
+To create a new working branch in Git, follow these steps:
+
+Open your terminal: Make sure you have your terminal open and navigate to your project directory using the cd command.
+
+Ensure you are on the main branch (or the branch you want to base your new branch on): It's a good practice to create a new branch from the latest version of the main branch. Switch to the main branch using:
+
+git checkout main
+Or, if you're using a newer version of Git:
+
+git switch main
+Fetch the latest changes (optional but recommended): Before creating a new branch, you may want to ensure you have the latest updates. You can do this by fetching the latest changes:
+
+git fetch origin
+Then, pull the latest changes into your local main branch:
+
+git pull origin main
+Create and switch to the new branch: Now, you can create a new branch and switch to it in one command using:
+
+git checkout -b new-branch-name
+Or, if you're using a newer version of Git:
+
+git switch -b new-branch-name
+Replace new-branch-name with the desired name for your new branch.
+
+Verify that you are on the new branch: You can verify that you have successfully switched to the new branch by running:
+
+git branch
+This will list all branches, and the current branch will have an asterisk (*) next to it.
