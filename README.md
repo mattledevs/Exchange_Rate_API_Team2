@@ -1,7 +1,7 @@
 # Group 2 Foreign Exchange Analysis Project
 
 ## Overview 
-Between 2000 and 2024, U.S. presidential elections have influenced USD foreign exchange rates with major currencies like EUR, JPY, and CNY. Our research will indicate exchange rate volatility 15 days before the election and 15 days after the election reflecting market uncertainty. 
+Between 2004 and 2024, U.S. presidential elections have influenced USD foreign exchange rates with major currencies like EUR, JPY, and CNY. Our research will indicate exchange rate volatility 15 days before the election and 15 days after the election reflecting market uncertainty. 
 
 ## Objectives
 Our Project helps to understand:
@@ -28,7 +28,7 @@ Our Project helps to understand:
 ## Activities
 1. Using Prophet model to predict the seasonal trend, show the plot, qualitative analysis (exploratory project)
 2. Exploration of the data:
-Years, month, week, day (For example: US election cycle 2024, 2020, 2016, 2012, 2008, 2004, and 2000)
+Years, month, week, day (For example: US election cycle 2024, 2020, 2016, 2012, 2008 and 2004)
 3. Comparing data during presidential election cycles. Between Oct 18 - November 18.
 4. This project provides a small calculator to convert USD/EUR, USD/JPY, USD/CNY in 2024.
 5. [Google Slides Presentation](https://docs.google.com/presentation/d/1-d574a8OJdIFsXGoa078BxuTmT_EhNgnVtsYezYIVM4/edit?usp=sharing)
