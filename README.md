@@ -1,11 +1,11 @@
 # Group 2 Foreign Exchange Analysis Project
 
 ## Overview 
-Between 2004 and 2024, the U.S. Presidential General Elections have influenced USD foreign exchange rates with major currencies like EUR, JPY, and CNY. Our research will indicate exchange rate volatility 15 days before the election and 15 days after the election reflecting market uncertainty. 
+Between 2000 and 2024, the U.S. Presidential Election cylcles have the potential to influence the USD foreign exchange rates with major currencies. This project is an investigation of how specificially the EUR, JPY, and CNY exchange rates change through anlyzing their volatility over a window of time around Election Day - 15 days before the after. 
 
 ## Objectives
-This project examines the relationship between the U.S. Presidential General Elections and exchange rate dynamics by analyzing:
-- The behavior of exchange rates across three key periods: pre-election, election, and post-election phases.
+This project examines the relationship between the U.S. Presidential Elections and exchange rate dynamics by analyzing:
+- The behavior of exchange rates across 2 key periods: pre-election and post-election phases.
 - The identification of election cycle phases that demonstrate the most significant and consistent exchange rate fluctuations.
 - Historical patterns across multiple election cycles, including potential correlations between exchange rate movements and the winning party (Republican vs Democratic).
 
@@ -15,7 +15,7 @@ This project examines the relationship between the U.S. Presidential General Ele
 3. [Spencer Gerritsen](https://github.com/sppencerr) - Utah
 4. [Ingrid Blankevoort](https://github.com/AIBC2024) - Utah
 5. [Vijay Srinivasula](https://github.com/vijaysrini-1982) - Arizona
-6. Yves Mugaba - Oregon
+6. [Yves Mugaba](https://github.com/Mugaba05) - Oregon
 
 ## Prerequisites
 - For Source 1: Download the Exchange Rate API key
