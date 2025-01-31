@@ -44,5 +44,5 @@ Years, month, week, day (For example: US election cycles 2024, 2020, 2016, 2012,
 3. [Spencer Gerritsen](https://github.com/sppencerr) - Utah
 4. [Ingrid Blankevoort](https://github.com/AIBC2024) - Utah
 5. [Vijay Srinivasula](https://github.com/vijaysrini-1982) - Arizona
-6. [Yves Mugaba](https://github.com/Mugaba05) - Oregon
+  
 
