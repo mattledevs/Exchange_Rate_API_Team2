@@ -16,11 +16,12 @@ This project examines the relationship between the U.S. Presidential Elections a
 - Store the csv file in /Resources/ folder
 - Foreign currency data collection: USD/EUR (Euro), USD/JPY (Japanese Yen), USD/CNY (Chinese Yuan)
 - For Source 2: Get familiar with the Exchange Rate data from the Federal Reserve website
+- All files will need to be run in Jupyter Notebook
 
 ## Activities
 1. Use Prophet model to predict the seasonal trend, show the plot, and perform qualitative analysis.
 2. Exploration of the data:
-Years, month, week, day (For example: US election cycle 2024, 2020, 2016, 2012, 2008, 2004 and 2000)
+Years, month, week, day (For example: US election cycles 2024, 2020, 2016, 2012, 2008, 2004 and 2000)
 3. Comparing data during the U.S. Presidential General Election cycles. For example, if the election day is on November 2, we'll look for data starting at 15 days prior to the election day and 15 days post the election day (that means between Oct 18 - November 17).
 4. This project provides a small calculator to convert USD/EUR, USD/JPY, USD/CNY in 2024.
 5. [Google Slides Presentation](https://docs.google.com/presentation/d/1-d574a8OJdIFsXGoa078BxuTmT_EhNgnVtsYezYIVM4/edit?usp=sharing)
@@ -29,9 +30,13 @@ Years, month, week, day (For example: US election cycle 2024, 2020, 2016, 2012, 
 - Source 1 [Exchange rate API](https://app.exchangerate-api.com/sign-up)
 - Source 2 [Federal Reserve Resource](https://www.federalreserve.gov/data.htm) with [Scrape HTML table for each country](https://www.federalreserve.gov/releases/h10/hist/)
 
-## Files to run
+## Installation (Files to Run)
 - [Exploration Exchange Rate](https://github.com/mattledevs/Exchange_Rate_API_Team2/blob/main/exploration-exchange-rate.ipynb)
 - [2024 calculator](https://github.com/mattledevs/Exchange_Rate_API_Team2/blob/main/exchange-rate-calculator-2024.ipynb)
+
+## Summary of the Final Analysis
+- Our hypothesis about the U.S. Presidential Elections influencing foreign exchange rates have shown a result of minimal correlation. It is not enough to determine the overall rate fluctuations.
+- Using Prophet model, we can predict X% rate increase/decrease (@matt to add here)
 
 ## Team Members
 1. [Matt Le](https://github.com/mattledevs) - Missouri
@@ -41,5 +46,3 @@ Years, month, week, day (For example: US election cycle 2024, 2020, 2016, 2012, 
 5. [Vijay Srinivasula](https://github.com/vijaysrini-1982) - Arizona
 6. [Yves Mugaba](https://github.com/Mugaba05) - Oregon
 
-## Future Work
-- 
