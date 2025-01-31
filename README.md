@@ -36,7 +36,7 @@ Years, month, week, day (For example: US election cycles 2024, 2020, 2016, 2012,
 
 ## Summary of the Final Analysis
 - Our hypothesis about the U.S. Presidential Elections influencing foreign exchange rates have shown a result of minimal correlation. It is not enough to determine the overall rate fluctuations.
-- Using Prophet model, we can predict X% rate increase/decrease (@matt to add here)
+- Using Prophet model on the EUR, the currency is shown to be stable hovering slightly around 1.06 for a 90-day prediction window (January 2025 - April 2025). 
 
 ## Team Members
 1. [Matt Le](https://github.com/mattledevs) - Missouri
@@ -44,5 +44,3 @@ Years, month, week, day (For example: US election cycles 2024, 2020, 2016, 2012,
 3. [Spencer Gerritsen](https://github.com/sppencerr) - Utah
 4. [Ingrid Blankevoort](https://github.com/AIBC2024) - Utah
 5. [Vijay Srinivasula](https://github.com/vijaysrini-1982) - Arizona
-  
-
